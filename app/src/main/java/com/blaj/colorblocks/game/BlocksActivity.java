@@ -131,7 +131,7 @@ public class BlocksActivity extends AppCompatActivity {
 
     public void handleClick(View view) {
         int btnId = view.getId();
-        if (randomButtons.indexOf(btnId) == crtClick) {
+        if (randomButtons.get(crtClick) == btnId) {
             colorButtons(findButtonId(btnId), Color.BLUE, Color.GRAY);
             handler.postDelayed(() -> colorButtons(-1, Color.GRAY, Color.GRAY), 500);
             crtScore += 15 + crtClick + crtLevel;

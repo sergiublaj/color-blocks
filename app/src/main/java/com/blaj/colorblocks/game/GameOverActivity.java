@@ -1,7 +1,6 @@
 package com.blaj.colorblocks.game;
 
 import android.app.AlertDialog;
-import android.content.DialogInterface;
 import android.os.Bundle;
 import android.os.Handler;
 import android.widget.EditText;
@@ -30,7 +29,7 @@ public class GameOverActivity extends AppCompatActivity {
                 .setTitle(getResources().getString(R.string.username_text))
                 .setCancelable(false)
                 .setView(userInput)
-                .setPositiveButton("Submit", (DialogInterface.OnClickListener) (dialog, which) -> {
+                .setPositiveButton("Submit", (dialog, which) -> {
                     userName = userInput.getText().toString();
 
                     showPodium();
