@@ -10,10 +10,9 @@
     tools:context=".aboutgame.InfoActivity">
 
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/text_margin"
         android:text="@string/description_body"
         android:textSize="20sp" />
-
 </androidx.core.widget.NestedScrollView>

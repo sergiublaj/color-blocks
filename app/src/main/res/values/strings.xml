@@ -1,18 +1,18 @@
 <resources>
     <string name="app_name">Color Blocks</string>
-    <string name="app_version">Version 1.01</string>
+    <string name="app_version">Version 1.02</string>
 
     <string name="description_body">
-        "Color blocks\n\n"
-
+        "Color blocks"
+        "\n"
         "In this game, there is a 4 by 4 grid. On each level, a number of blocks is being coloured"
         "equal to that level. The player has to remember the order in which the blocks are coloured"
         "and then, after the colouring has been done, he has to clicks the blocks that were coloured"
-        "in the order the were coloured.\n\n"
-
+        "in the order the were coloured."
+        "\n"
         "If the player misses the order, the game is done. The purpose of the game is to get as far"
-        "as you can.\n\n"
-
+        "as you can."
+        "\n"
         "Enjoy!"
     </string>
     <string name="description_title">Description</string>

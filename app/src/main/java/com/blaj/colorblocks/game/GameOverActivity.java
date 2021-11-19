@@ -2,7 +2,6 @@ package com.blaj.colorblocks.game;
 
 import android.app.AlertDialog;
 import android.os.Bundle;
-import android.os.Handler;
 import android.widget.EditText;
 import android.widget.TextView;
 
@@ -53,8 +52,5 @@ public class GameOverActivity extends AppCompatActivity {
         TextView thirdPodium = findViewById(R.id.podium3);
         String thirdPlace = String.format(getResources().getString(R.string.podium3), userScore / 3);
         thirdPodium.setText(thirdPlace);
-
-        Handler handler = new Handler();
-        handler.postDelayed(() -> setContentView(R.layout.activity_main), 10000);
     }
 }

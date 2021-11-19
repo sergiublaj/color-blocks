@@ -3,12 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Proiecte/Android/ColorBlocks/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1675925925925926" />
         <entry key="..\:/Proiecte/Android/ColorBlocks/app/src/main/res/layout-w1240dp/activity_game_over.xml" value="0.12081659973226239" />
         <entry key="..\:/Proiecte/Android/ColorBlocks/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.17637215528781794" />
         <entry key="..\:/Proiecte/Android/ColorBlocks/app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.205859375" />
-        <entry key="..\:/Proiecte/Android/ColorBlocks/app/src/main/res/layout/activity_blocks.xml" value="0.264" />
+        <entry key="..\:/Proiecte/Android/ColorBlocks/app/src/main/res/layout/activity_blocks.xml" value="0.4" />
         <entry key="..\:/Proiecte/Android/ColorBlocks/app/src/main/res/layout/activity_game_over.xml" value="0.264" />
-        <entry key="..\:/Proiecte/Android/ColorBlocks/app/src/main/res/layout/activity_info.xml" value="0.14375" />
+        <entry key="..\:/Proiecte/Android/ColorBlocks/app/src/main/res/layout/activity_info.xml" value="0.264" />
         <entry key="..\:/Proiecte/Android/ColorBlocks/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Proiecte/Android/ColorBlocks/app/src/main/res/layout/content_scrolling.xml" value="0.27447916666666666" />
         <entry key="..\:/Proiecte/Android/ColorBlocks/app/src/main/res/layout/user_dialog.xml" value="0.264" />
